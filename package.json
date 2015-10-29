@@ -1,0 +1,39 @@
+{
+  "name": "collect-cli-arguments",
+  "description": "collects command line arguments",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jsfi/collect-cli-arguments#readme",
+  "author": {
+    "name": "Martin Sachse",
+    "email": "martin.sachse@gmail.com",
+    "url": "http://jsfi.io"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/eslint/bin/eslint.js index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsfi/collect-cli-arguments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsfi/collect-cli-arguments/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "args",
+    "argv",
+    "arguments",
+    "cli",
+    "command",
+    "collect",
+    "prompt"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^1.7.3"
+  }
+}
